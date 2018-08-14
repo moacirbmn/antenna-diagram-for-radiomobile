@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<GroundOverlay><name>cov0005_Torre_Associaçao.png</name><color>88ffffff</color><Icon>
+<href>cov0005_Torre_Associaçao.png</href>
+<viewBoundScale>0.75</viewBoundScale></Icon><LatLonBox>
+<north>-1.507138</north>
+<south>-1.534134</south>
+<east>-48.40506</east>
+<west>-48.43006</west>
+</LatLonBox></GroundOverlay></kml>
