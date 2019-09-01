@@ -14,3 +14,7 @@ Repository made from visual conference diagrams in the equipment manual
 *AG-5G23
 
 *AG-5G27
+
+###TerraWave
+
+TerraWave 800-2500MHz 7/10dBi Patch Antenna (M4070100P11206)
