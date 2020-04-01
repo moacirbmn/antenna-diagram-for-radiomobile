@@ -18,3 +18,6 @@ Repository made from visual conference diagrams in the equipment manual
 ### TerraWave
 
 * TerraWave 800-2500MHz 7/10dBi Patch Antenna (M4070100P11206)
+
+### L-com
+* 698-960/1710-2700 MHz 65 Degree X-Pol Sector DAS Antenna (HG72710XP-065)
